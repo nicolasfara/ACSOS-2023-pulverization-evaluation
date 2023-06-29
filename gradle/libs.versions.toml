@@ -9,7 +9,7 @@ alchemist-protelis = { module = "it.unibo.alchemist:alchemist-incarnation-protel
 alchemist-scafi = { module = "it.unibo.alchemist:alchemist-incarnation-scafi", version.ref = "alchemist" }
 pulverization-core = { module = "it.nicolasfarabegoli.pulverization-framework:core", version.ref = "pulverization" }
 pulverization-platform = { module = "it.nicolasfarabegoli.pulverization-framework:platform", version.ref = "pulverization" }
-kotlinx-coroutine = { module = "org.jetbrains.kotlinx:kotlinx-coroutines-core", version = "1.7.1" }
+kotlinx-coroutine = { module = "org.jetbrains.kotlinx:kotlinx-coroutines-core", version = "1.7.2" }
 
 [bundles]
 alchemist-protelis = [ "alchemist", "alchemist-protelis" ]
